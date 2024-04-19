@@ -17,6 +17,7 @@ import javax.swing.JTextField;
  *
  * @author Daki
  */
+// Just testing out Github
 public class LoginPage implements ActionListener{
     //creating our JFrame
     JFrame frame = new JFrame();
@@ -63,7 +64,7 @@ public class LoginPage implements ActionListener{
         frame.setSize(420,420);
         frame.setLayout(null);
         frame.setVisible(true);
-        
+     
         
     }
 

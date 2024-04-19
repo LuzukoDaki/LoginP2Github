@@ -20,7 +20,7 @@ public class DakiIceTask3Login {
         // creating an instance of our Login Page / instentiating an object
         
        LoginPage loginPage = new LoginPage( idandPass.getLoginInfo());
-         
+       int mark = 4;
        
     }
     
